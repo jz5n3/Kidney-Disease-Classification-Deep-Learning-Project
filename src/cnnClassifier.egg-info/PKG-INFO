@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/jz5n3/Kidney-Disease-Classification-Deep-Learning-Project
+Author: jz5n3
+Author-email: shirly.sky@hotmail.com
+Project-URL: Bug Tracker, https://github.com/jz5n3/Kidney-Disease-Classification-Deep-Learning-Project/issues
+
+# Kidney-Disease-Classification-Deep-Learning-Project
+### setup environment 
+> conda create -n kidney python=3.8 -y
+
+### activate environment
+> conda activate kidney
+
+### deactivate environment
+> conda deactivate
+
+### install packages
+> pip install -r requirements.txt
